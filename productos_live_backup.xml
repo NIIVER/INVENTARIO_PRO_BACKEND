@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogos_inventario>
+    <producto>
+        <id>1</id>
+        <nombre>Laptop Dell Inspiron 15</nombre>
+        <descripcion>Laptop i5 16GB RAM</descripcion>
+        <precio>3000.0</precio>
+        <stock>80</stock>
+        <stockMinimo>5</stockMinimo>
+        <imagenUrl>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAABZVBMVEUAAAAAAAAARQcARwgAVAkAXgoAagsAkw8NCgoREREUEhIlHQ0sLCwuJhQ3LRk7MBlEOB5HIwZvYEKIBgaMbk2VDieWDieXDieXaDWYbT+Yb1mZDiiaDiibeledg1GeDymeblCecD6gdV2idl6jDyujIyOjd1+kgFmme0+nemGoECyoe2KpECypeUaqfWarEC2rfWSrhUOsEC2tEC2tfUmtfmWtkFqug1SvgGawES6wgVGwgWexgU2yiV20ES+1ES+1gEa2klO4hlS4h1G4h1O5kk67EjG8im68l1a9KSm9i1S9mFe+o3C+ySbApXLBjXHBjljEEzTEp3DFl1zGjEzHjU7HqHHIlV/JKyvJLCzJl2DKEzXKrHPKrXjLl1/LpF/MFDbN2SnPl1jPsnrRUiPTt4LVqHbWsGvW1tbW2dLZLy/eMTHeQEDe3t7oMjLrPj7tNzfu7u7wNzfz8/P3+vL/ZCv///8KvuD/AAAAAXRSTlMAQObYZgAAAz5JREFUWMPtlvtb0lAYx5niyBqaJgglqCnhjSxdkuYFuZg4WiookMaWcjA5dSoc/P29ZxcYPEyn/dTz8OFh5zD3fvaeoZ6vw6HD6ESjQ0A06rgvLYFGT/BfCZg7aLvy0eN/EVjwRGdYukToUmKMz7YFwzophkGIYVKM/tm24CmQuxhNpW5GEBq5SaVGL3L0nG0B/dPJ5fhk8hQBp8kkn8vRc0Na/ZAdQcwHZXy0MjVVifKg8sXgpNvtZhg43Cl4S/HFTg75LwB/eBLzqaeSSah2J5O2fhf6gTJX54zPGLsAjJ/RF9A6j7PZrIWgDjQvdH388O6NSy9vCQhxWQuggabANfO5Unn/ytUpwLcJzEtwPa8AL7sIuiyhvwNYJyZsqVIpsTVcq9UwZgGsQjRgZhIUqgM68KNqIa3Blkps+hZMApZUWRVC9IHQO8EkVIMZxg0VjBWl2QExd8CycNdClej10CzB17+A0M+Q3i9WB0UhXQX5uCAeI3Ga3zzI5+PxPG3w+poeQ3q7tAEYFKX7EvIbgkjr/X4QzM3laQfkN71tSF2B+m5gYvkQ+5zOvj7ngNb/gLNPa5jeVL1SLYB6Eg5LCPH8NBAMZkwC76osny0vTYyvy7L3hXfWaLJhapjOVYG0CPWR4LlZ4FmRgT2PZ0eWJ7ePFrD2LTTUAWtzOguEE6KIJJ4KEDIJ/uh8B+iYLjZvWmzNi8WxgAD/L0AQSQQzZkG5Xi+XBwfL6shx5SItK9JKeiiqA30FZgS6hnkQ7AbNAo6ra8V1DqZ1TqtQ31ptWhNmr66ukLSfAHaDa44ePXr0sIe+W5fvzAW3Ccx5wYXJAwTm7Z48QNC+hHsIOvNCazvD7VuaFYQYeQHCAuzalrnACiMnsNVmXtA6IPgHJnYErJ5UCqxZQL4pdJ+zIcgfbPLTIjoWhXgzL1CUTzaXkD/w+6lBFDbUvGB6iMTWQzRygpEbaCDgeR5J4fDXTNCGQJbXxyeWls9kedU7C4EhQg2LEhVsZc5tCXY8nj2aGVY8C0fbkxHagITERDiw1ZYLrDBygkEiogqQEBhDKGND0JkXQDD/GlYgzAQQsvMMOvMCDQT7+xKkg+zaWhfBXz6vcPeKwSmJAAAAAElFTkSuQmCC</imagenUrl>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Mouse Logitech M185</nombre>
+        <descripcion>Mouse inalámbrico negro</descripcion>
+        <precio>50.0</precio>
+        <stock>103</stock>
+        <stockMinimo>10</stockMinimo>
+    </producto>
+</catalogos_inventario>

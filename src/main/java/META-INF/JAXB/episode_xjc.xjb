@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="3.0" xmlns="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2026.06.09 a las 12:20:32 PM GMT-05:00 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://tienda.com/webservices">
+    <schemaBindings map="false">
+      <package name="com.tienda.webservices"/>
+    </schemaBindings>
+    <bindings scd="tns:getProveedorRequest">
+      <class ref="com.tienda.webservices.GetProveedorRequest"/>
+    </bindings>
+    <bindings scd="tns:getProveedorResponse">
+      <class ref="com.tienda.webservices.GetProveedorResponse"/>
+    </bindings>
+    <bindings scd="~tns:proveedorSoap">
+      <class ref="com.tienda.webservices.ProveedorSoap"/>
+    </bindings>
+  </bindings>
+</bindings>
+
